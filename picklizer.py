@@ -8,7 +8,7 @@ import os
 def picklizer():
 
     """
-    Permet de pickliser les fichiers
+    Picklize all press articles
     :return:
     """
 
