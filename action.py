@@ -4,15 +4,15 @@ import pickle
 class Action(object):
 
     """
-    Class modélisant des actions d'une entreprise N
+    Class that models a stock (action in French)
     """
 
     def __init__(self, name, path_dic):
 
         """
-        Constructeur d'action
-        :param name: nom de l'action
-        :param path_dic: chemin du pickle stock de l'entreprise
+        Constructor of stock
+        :param name: name of the stock
+        :param path_dic: file path to the pickle of the stock
         """
 
         self.__setattr__('name', name)
@@ -38,9 +38,9 @@ class Action(object):
     def get_stock_value(self, day):
 
         """
-        Retourne le cours de l'action au jour day
-        :param day: numéro du jour au format int
-        :return: valeur de l'action
+        Returns the stock price of the day
+        :param day: day number, integer
+        :return: stock price
         """
 
         if (day >= 700) and (day < 1095):
@@ -55,7 +55,7 @@ class Action(object):
             date = str(date)
             self.__setattr__('date', date)
         else:
-            print("Une date est une str de size 4")
+            print("A date is a str of size 4")
 
 
 if __name__ == '__main__':
