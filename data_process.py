@@ -8,7 +8,8 @@ import multiprocessing as mp
 def create_csv_firm(spnas):
 
     """
-    Permet de créer un csv contenant les articles accociés à une entreprise chaque jour
+    
+    Create a csv containing articles associated with a company each day
     :param spnas:
     :return:
     """
@@ -53,8 +54,8 @@ def create_csv_firm(spnas):
 def rename_dir(dirname):
 
     """
-    Renommer les répertoire pour repérer les jours par un code standard
-    :param dirname: nom du répertoire à modifier
+    Rename folder to day by day giving a standard code
+    :param dirname: name of folder to modify
     :return:
     """
 
@@ -81,8 +82,8 @@ def rename_dir(dirname):
 def rename_file(dirname):
 
     """
-    Renommer les fichiers pour standardiser nos articles
-    :param dirname: nom du répertoire
+    Standardization of article filenames
+    :param dirname: name of day folder
     :return:
     """
 
@@ -102,7 +103,7 @@ def rename_file(dirname):
 
 if __name__ == '__main__':
 
-    # Chargement des fichiers nécessaires
+    # Loading of files
     spnas = '/home/zeninvest/SP500_nasdaq100.csv'
     spnas_df = pd.read_csv(spnas)
     spnas_list = spnas_df[['Symbol', 'Name1']].values.tolist()
@@ -110,7 +111,7 @@ if __name__ == '__main__':
     firm_csv_folder = '/home/zeninvest/firm_csv_folder/'
     lis = [' HP ', 'KeyCorp', ' Gap ', 'CF Industries']
 
-    # Paraléllisation de la tâche sur un serveur 35 coeurs
+    # Parallelization of the task
     nb_process = 35
     l = list(np.array_split(spnas_list, nb_process))
     l = [x.tolist() for x in l]
