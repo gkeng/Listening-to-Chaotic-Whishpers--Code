@@ -1,0 +1,674 @@
+New Zealand bar manager pleads not guilty to insulting Buddhism in Myanmar (A Buddha statue is pictured" />
+
+
+
+
+
+
+
+
+
+
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.reuters.com/article/idUS342810804920150101"
+        },
+        "headline": "New Zealand bar manager pleads not guilty to insulting Buddhism in Myanmar",
+        "url": "https://www.reuters.com/article/idUS342810804920150101",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20111019&t=2&i=647793016&w=1200&r=xyzzyadmin123",
+            "width": "800",
+            "height": "800"
+        },
+        "thumbnailUrl": "https://s2.reutersmedia.net/resources/r/?m=02&d=20111019&t=2&i=647793016&w=1200&r=xyzzyadmin123",
+        "dateCreated": "2015-01-01T14:11:48+0000",
+        "dateModified": "2015-01-01T14:11:48+0000",
+        "datePublished": "2015-01-01T14:11:48+0000",
+        "author": {
+            "@type": "Person",
+            "name": "<div-id=\"media_content\"-class=\"media_content\"></div><p-class=\"wp-caption-text\">(a-buddha-statue-is-pictured-at-a-marble-mine-at-zagyin-(marble)-village\"><a href=\"/journalists/reuters-staff-<div-id=\"attachment_33966\"-style=\"width:-602px\"-class=\"wp-caption-alignnone\"><div-id=\"media_content\"-class=\"media_content\"></div><p-class=\"wp-caption-text\">(a-buddha-statue-is-pictured\">Reuters Staff <div id=\"attachment_33966\" style=\"width: 602px\" class=\"wp-caption alignnone\"><div id=\"media_content\" class=\"media_content\"></div><p class=\"wp-caption-text\">(A Buddha statue is pictured"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Reuters",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://s3.reutersmedia.net/resources_v2/images/reuters_social_logo.png",
+                "width": "200",
+                "height": "200"
+            }
+        },
+        "description": "By Reuters Staff (A Buddha statue is pictured at a marble mine at Zagyin (Marble) village in the Madaya township February 26, 2014. REUTERS/Soe Zeya Tun)A New Zealand bar manager has pleaded not guilty in a Myanmar court to charges of insulting religion after publishing a psychedelic image of Buddha wearing headphones to promote his bar in Yangon.The case comes amid a surge in Buddhist nationalism in Myanmar &#8211; which emerged in 2011 from half a century of military rule &#8211; with monks forming groups aimed at promoting the country&#8217;s Buddhist character.New Zealander Phil Blackwood was charged earlier in December, along two local men, over the publication of a poster promoting cheap drinks at his bar. If found guilty, they face up to four years in jail.Blackwood told the court on Dec. 26 that he had removed the image from the bar&#8217;s Facebook page, and posted an apology once he realised that it was being shared widely online, provoking outrage.&#8220;I believe the law says the act must be deliberate, require malice with intent to offend,&#8221; Blackwood said. &#8220;I have said a number of times, there was no intent.&#8221;Blackwood&#8217;s lawyer, Mya Thway, said he had received anonymous messages on Facebook threatening to cut him to pieces and burn him because he&#8217;d taken on the case.In a similar case, a prominent former official with the main opposition party was detained earlier this month after he made a speech he said was intended to discourage extremist interpretations of Buddhism.Myanmar&#8217;s semi-civilian government has lifted restrictions on freedoms of speech, association and media, but reforms have been accompanied by a rise in Buddhist nationalism.The main target of the Buddhist nationalist movement has been the country&#8217;s Muslims, who make up about 5 percent of its 53 million people. Sectarian violence since June 2012 has killed at least 240 people, mostly Muslims.Parliament is set to debate a package of laws, including regulations on religious conversions and interfaith marriages, which were initially proposed by the Committee to Protect Race and Religion, one of the main Buddhist nationalist groups.via New Zealand bar manager pleads not guilty to insulting Buddhism in Myanmar | Reuters.",
+        "articleSection": "Homepage",
+        "creator": ["<div-id=\"media_content\"-class=\"media_content\"></div><p-class=\"wp-caption-text\">(a-buddha-statue-is-pictured-at-a-marble-mine-at-zagyin-(marble)-village\"><a href=\"/journalists/reuters-staff-<div-id=\"attachment_33966\"-style=\"width:-602px\"-class=\"wp-caption-alignnone\"><div-id=\"media_content\"-class=\"media_content\"></div><p-class=\"wp-caption-text\">(a-buddha-statue-is-pictured\">Reuters Staff <div id=\"attachment_33966\" style=\"width: 602px\" class=\"wp-caption alignnone\"><div id=\"media_content\" class=\"media_content\"></div><p class=\"wp-caption-text\">(A Buddha statue is pictured"],
+        "keywords": ["", "Article"],
+        "about":"Article"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rubric{position: absolute;top: 20px;left: -1px;background: #ff8000;color: #fff;font-weight: bold;padding: 3px;padding-left: 10px;font-size: 12px;padding-right: 5px;z-index: 99999;}
+.text_box{width: 230px; border: 1px solid #ccc;font-size: 1.5em;}
+.text_box span{display:block;}
+.text_box span:first-of-type{margin: 6px 0 8px;text-align:center;color:#f37021;}
+.text_box span:nth-of-type(2){width: 100%; height: 1px; border-top: 1px solid #cccccc; margin-top: 6px;}
+.text_box span:nth-of-type(3) {height: 44px; line-height: 22px; text-align: center; font-size: 12px;}
+
+/* Hack Sponsored */
+.hacked-main {position: relative;top: -280px;border-bottom: 10px #003399 solid;left: -90px;height: 442px;width: 1200px;background: url(https://www.reuters.com/media-campaign/brandfeatures/united/united-main.jpg);}
+.hacked-main-deloitte {position: relative;top: -230px;border-bottom: 10px #60adb3 solid;left: -90px;height: 442px;width: 1200px;background: url(https://www.reuters.com/media-campaign/brandfeatures/deloitte/deloitte-main.jpg); background-position: center;}
+.hacked-main-airbus {position: relative;top: -400px;border-bottom: 10px #00205b solid;left: -90px;height: 442px;width: 1200px;background: url(https://www.reuters.com/media-campaign/brandfeatures/airbus/airbus_article_image.jpg);}
+a.del-mpu{position:relative; z-index:9; display:block;}
+.intro{  margin-top: -300px;color: #003399;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #ebebeb;}
+.intro-deloitte{  margin-top: -250px;color: #0c8e98;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;margin-bottom:30px; padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #0c8e98;}
+.intro-airbus{  margin-top: -400px;color: #00205b;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #00205b;}
+.psmall{font-size:14px;margin-top:20px; font-style: italic;}
+.headline-hacked{position: absolute;bottom: 50px;left: 90px;width: 58%;}
+.hacked-title{color: #fff;font-family: knowledge-medium, helvetica, arial, sans-serif; font-size: 56px;line-height: 64px;}
+.hacked-image{margin-left: -90px;}
+.hacked-byline {color: #fff;font-size: 12px;font-family: knowledge-regular, helvetica, arial, sans-serif;line-height: 40px;text-transform: uppercase; letter-spacing: 2px;}
+.heavy{font-family: knowledge-medium, helvetica, arial, sans-serif;}
+.right{float: right;position: absolute;right: 40px; top:300px; width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;}
+.right-deloitte{float: right;position: absolute;right: 0px; top:350px; width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;}
+.right-airbus{float: right;position: absolute;right: 40px; top:200px; width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;}
+.right-line2{color:#000; font-family: knowledge-medium, helvetica, arial, sans-serif;}
+.right2{display:none;width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;}
+#USKBN1HH3BG .DPSlot_container_2dHIN p {display: none;}
+#USKBN1HH3BG .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKBN1HH3BG .container_2pnvl, #USKCN1GQ2V6 .container_2pnvl, #USKBN1FM27H .container_2pnvl,#USKBN1HH3CU .container_2pnvl, #USKCN1GQ2V6 .container_2pnvl, #USKCN1GR346 .container_2pnvl {display:none !important;}
+#USKCN1GQ2V6 .DPSlot_container_2dHIN p {display: none;}
+#USKCN1GQ2V6 .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKBN1HH3CU .DPSlot_container_2dHIN p {display: none;}
+#USKBN1HH3CU .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKCN1GQ2V6 .DPSlot_container_2dHIN p {display: none;}
+#USKCN1GQ2V6 .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+
+#USKCN1GR346 .inline-container_1QqKC{width:100%;}
+#USKBN1FM27H .DPSlot_container_2dHIN p {display: none;}
+#USKBN1FM27H .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#yt-tracker {height: 1px;width: 1px;}
+#USKBN1FM27H div.BylineBar_first-container_1wTRC.ArticleHeader_byline-bar_2egLq {height:160px;}
+
+/* Hack Sponsored Thailand Ministry */
+.hacked-main-ministry {position: relative;top: -280px;border-bottom: 10px #00205b solid;left: -90px;height: 480px;width: 1200px;background: url(https://www.reuters.com/media-campaign/brandfeatures/ministry/MFA-hero.jpg) no-repeat; background-size: cover;}
+.intro-ministry{  margin-top: -280px;color: #00205b;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #00205b;}
+.right-ministry{float: right;position: absolute;right: 0px; top: 530px; width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;}
+#USKBN1FR398 .DPSlot_container_2dHIN p {display: none;}
+#USKBN1FR398 .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKBN1FR398 div.BylineBar_first-container_1wTRC.ArticleHeader_byline-bar_2egLq {height:160px;}
+#USKBN1FR398 .container_2pnvl{display:none;}
+#USKBN1FR398 div.headline-hacked{display: none;}
+#USKBN1FR398 #right{text-transform:uppercase;}
+.gradient-ofi{    background: linear-gradient(to top,rgba(0,0,0,0.25) 0,rgba(0,0,0,0) 100%);
+    width: 100%;
+    height: 100%;}
+#USKCN1GR346 .DPSlot_container_2dHIN p {display: none;}
+#USKCN1GR346 .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 230px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKCN1GR346 .container_2pnvl {display:none !important;}
+.hacked-main-ofi {position: relative;top: -280px;border-bottom: 10px #00205b solid;left: -90px;height: 480px;width: 1200px;background: url('https://www.reuters.com/media-campaign/brandfeatures/ofi/High-Res_8-Lessons-for-Investors-Since-08-Crash_March.jpg') no-repeat; background-size: cover;}
+.intro-ofi{  margin-top: -280px;color: #006692;font-family: knowledge-light, helvetica, arial, sans-serif;font-size: 26px;line-height: 36px;padding-bottom: 50px;padding-left: 0px;padding-top: 0px;border-bottom: 1px solid #00205b;}
+.right-ofi{float: right;position: absolute;right: 0px; top: 330px; width:300px; color:#86888b; font-family: knowledge-regular, helvetica, arial, sans-serif; font-size:15px;  z-index: 9;}
+#USKCN1GR346 h3{display:none;}
+
+#USKCN1GR346 .container_1Z7A0 .image_1KsYy.fallback_2kFne {background-size: contain;}
+
+.opp-green{color:#bad315; font-size:22px; float: left; margin-top: -35px; line-height: 26px;}
+.player-container{ left: 0px;position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;}
+
+.player-container iframe, .player-container object, .player-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.player-cta{position:relative;z-index:0;}
+div.cta{width: 100%;
+margin: 0px auto;
+text-align: center;
+margin-left: 25%;
+margin-right: 25%;}
+#youTubePlayer,#youTubePlayer2{position:absolute;z-index:1; width:100%;}
+.deloitte-header{margin-bottom: 20px; font-size: 20px;}
+.deloitte-copy{font-family: freight-book, serif;
+-webkit-font-smoothing: antialiased;
+font-size: 18px;
+line-height: 1.6;
+margin-bottom: 30px; color:#313132; margin-left:90px;}
+
+
+.deloitte-copy a{border-bottom: 1px dotted #128fdd;}
+
+@media only screen and (max-width: 1200px) {
+    .hacked-main {width:1200px;}
+}
+
+@media only screen and (max-width: 1146px) {
+
+}
+
+@media only screen and (max-width: 1100px) {
+    .hacked-main {width:1100px; height:406px;}
+    .hacked-title {font-size: 50px;line-height: 58px;}
+   .hacked-main-airbus {width:1100px; height:406px; top: -450px;}
+   .hacked-main-ministry{width:1100px; height:406px; top:-350px;}
+.hacked-main-ofi {width:1100px; height:406px; top:-320px;}
+ .hacked-main-deloitte {width:1100px; height:442px; top: -230px;}
+    .hacked-title {font-size: 50px;line-height: 58px;}
+    .right{top:265px;}
+    #USKBN1HH3BG .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 190px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKBN1FM27H .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 190px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+#USKBN1FR398 .RightRail_right-rail_2XVdG .RightRail_sticky-container_2RtHf>div {height: 190px;margin-left: -40px;margin-bottom: 125px;display: -webkit-box;display: -ms-flexbox;display: flex;}
+.right-ministry {top: 475px;right: 50px; }
+}
+
+
+@media only screen and (max-width: 1025px) {
+.player-container {
+    position: relative;
+    height: 360px;
+    left: 0px;
+    width: 100%;
+}
+
+.deloitte-copy{margin-left:0px;}
+}
+
+
+@media only screen and (max-width: 1000px) {
+   .hacked-main-ministry, .hacked-main-deloitte, .hacked-main-ofi {width:1000px;}
+.hacked-image{margin-left:0px;}
+
+}
+
+
+@media only screen and (max-width: 920px) {
+.right{ display:none;}
+  /*.right2{display:block;}*/
+.hacked-main {top: -270px;width:920px;}
+#USKBN1HH3BG .DPSlot_container_2dHIN {margin-top: -300px;}
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+.intro{margin-top: 0px;}
+.right-deloitte{display:none;}
+.hacked-main-airbus {top: -400px;width:100%;left: 0px;}
+.hacked-main-ministry {top: -280px;width:100%;left: 0px;}
+.hacked-main-ofi {top: -280px;width:100%;left: 0px;}
+ .hacked-main-deloitte{top: -230px;width:100%;left: 0px;}
+#USKBN1FM27H .DPSlot_container_2dHIN {margin-top: -300px;}
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+.intro-airbus{margin-top: 0px;}
+#USKBN1FR398 .DPSlot_container_2dHIN {margin-top: 0px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+.intro-ministry{width:55%;}
+}
+
+
+@media only screen and (max-width: 825px) {
+.hacked-main {top: -300px;width:825px;}
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+.hacked-main-airbus {top: -400px;}
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+.intro-ministry{margin-top: -200px; width:100%;}
+.right-ministry, .right-ofi { left:auto;right:auto; margin: 0px auto;float: none; position:relative;}
+.right-airbus{float: none;
+    position: relative;
+    right: auto;
+    left: auto;
+    top: -350px;
+    width: 300px;
+    color: #86888b;
+    font-family: knowledge-regular, helvetica, arial, sans-serif;
+    font-size: 15px;
+    margin: 0px auto;}
+   .intro-airbus{margin-top: -300px;}
+.right-ofi{    top: -230px;}
+}
+
+@media only screen and (max-width: 750px) {
+.hacked-title { font-size: 38px; line-height: 46px; }
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+.hacked-byline {line-height: 30px;}
+.headline-hacked {width: 80%;}
+.hacked-main {width:750px;}
+
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+.hacked-byline {line-height: 30px;}
+.headline-hacked {width: 80%;  bottom: 30px; left: 20px;}
+}
+
+@media only screen and (max-width: 641px) {
+.hacked-main {top: -300px;width:641px}
+.intro {margin-top: 0px;}
+#USKBN1HH3BG .DPSlot_container_2dHIN {margin-top: -270px;}
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+.right-ministry, .right-ofi{float: none;}
+.hacked-main-airbus {top: -400px;}
+.hacked-main-ministry{top: -280px;}
+.hacked-main-ofi {top:-240px;}
+#USKBN1FM27H .DPSlot_container_2dHIN {margin-top: -270px;}
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+
+#USKBN1FR398 .DPSlot_container_2dHIN {margin-top: -270px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+
+}
+
+@media only screen and (max-width: 639px) {
+.hacked-main {top: -240px;}
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+
+.hacked-main-airbus {top: -370px;}
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+
+.hacked-main-ministry{top: -250px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+}
+
+@media only screen and (max-width: 525px) {
+.hacked-main {top: -270px; width:525px;}
+.headline-hacked {width: 70%;}
+.intro { margin-top: 0px;}
+#USKBN1HH3BG .in-article-tag{margin-top: 0px;}
+#USKBN1FM27H .in-article-tag{margin-top: 0px;}
+#USKBN1FR398 .in-article-tag{margin-top: 0px;}
+.hacked-main-ministry, .hacked-main-ofi {   background-size: cover; height: 275px; }
+.right-ministry{top:300px;}
+.hacked-title { font-size: 34px; line-height: 34px; }
+}
+
+@media only screen and (max-width: 445px) {
+     .opp-green{margin-top: -55px;margin-bottom: 20px;}
+}
+
+@media only screen and (max-width: 400px) {
+.hacked-main-ministry {   }
+.player-cta{background-size:100%; background-position-y: 0px;}
+.hacked-main-airbus {top: -400px;}
+.hacked-main-ofi {top:-280px;}
+}
+/* Hack Sponsored */
+
+/* Hack Remove JP Inline Article Sponsored Label */
+//.DPSlot_container_2dHIN.DPSlot_inline_1oeo6:lang(ja) {
+//display: none;
+//}
+/* Hack Remove JP Inline Article Sponsored Label */
+
+
+
+
+
+
+setTimeout(function(){ document.getElementById('replay-video').onclick = function(){
+    document.getElementById('youTubePlayer').style.display='block'; 
+    player.cueVideoById('qM1BYkEA17A');
+    player.setPlaybackQuality('hd720');
+}; }, 3000);
+
+
+setTimeout(function(){ document.getElementById('replay-video2').onclick = function(){
+    document.getElementById('youTubePlayer2').style.display='block'; 
+    player2.cueVideoById('A0ZP1Rour8k');
+   player2.setPlaybackQuality('hd720');
+}; }, 3000);
+
+//This loads the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    // This function creates an <iframe> (and YouTube player) after the API code downloads. VIDEO 1
+    var player;
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('youTubePlayer', {
+            videoId: 'qM1BYkEA17A', 
+           playerVars: { 'autoplay': 1 },
+           events: {
+               'onReady': onPlayerReady,
+               'onPlaybackQualityChange': onPlayerPlaybackQualityChange,
+               'onStateChange': onPlayerStateChange
+        }
+        });
+    }
+
+function onPlayerPlaybackQualityChange(event) {
+    var playbackQuality = event.target.getPlaybackQuality();
+    var suggestedQuality = 'hd720';
+
+    console.log("Quality changed to: " + playbackQuality );
+
+    if( playbackQuality !== 'hd720') {
+        console.log("Setting quality to " + suggestedQuality );
+        event.target.setPlaybackQuality( suggestedQuality );
+    }
+}
+
+    function onPlayerReady(event) {
+        //we aren't going to do anything here
+        //event.target.playVideo();
+        player.setPlaybackQuality('hd720');
+    }
+
+    function onPlayerStateChange(event) {
+        // track when user clicks to Play
+        if (event.data == YT.PlayerState.PLAYING) {
+             var rate = 'hd720';
+              player.setPlaybackQuality(rate);
+             console.log('playing');
+             document.getElementById("yt-tracker").src="https://bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=23659915&PluID=0&ord=%%CACHEBUSTER%%&rtu=-1";
+              
+
+        }
+
+        // track when user clicks to Pause
+        if (event.data == YT.PlayerState.PAUSED) {
+             console.log('paused');
+        }
+
+        // track when video ends
+        if (event.data == YT.PlayerState.ENDED) {
+           console.log('ended');
+            document.getElementById('youTubePlayer').style.display='none';
+        }
+    }
+
+
+    var player2;
+    function onYouTubeIframeAPIReady2() {
+        player2 = new YT.Player('youTubePlayer2', {
+            videoId: 'A0ZP1Rour8k', 
+           playerVars: { 'autoplay': 1 },
+            events: {
+               'onReady': onPlayerReady2,
+               'onPlaybackQualityChange': onPlayerPlaybackQualityChange2,
+               'onStateChange': onPlayerStateChange2
+        }
+        });
+    }
+
+    function onPlayerReady2(event2) {
+        event2.target.playVideo();
+    }
+
+ function onPlayerPlaybackQualityChange2(event2) {
+    var playbackQuality = event2.target.getPlaybackQuality();
+    var suggestedQuality = 'hd720';
+
+    console.log("Quality changed to: " + playbackQuality );
+
+    if( playbackQuality !== 'hd720') {
+        console.log("Setting quality to " + suggestedQuality );
+        event2.target.setPlaybackQuality( suggestedQuality );
+    }
+}
+
+    function onPlayerStateChange2(event2) {
+        // track when user clicks to Play
+     
+        if (event2.data == YT.PlayerState.PLAYING) {
+             var rate = 'hd720';
+              player2.setPlaybackQuality(rate);
+             console.log('playing2');
+            document.getElementById("yt-tracker").src="https://bs.serving-sys.com/serving/adServer.bs?cn=display&c=19&mc=imp&pli=24274120&PluID=0&ord=%%CACHEBUSTER%%&rtu=-1";
+              
+        }
+
+        // track when user clicks to Pause
+        if (event2.data == YT.PlayerState.PAUSED) {
+             console.log('paused');
+        }
+
+        // track when video ends
+        if (event2.data == YT.PlayerState.ENDED) {
+           console.log('ended');
+            document.getElementById('youTubePlayer2').style.display='none';
+        }
+    }
+
+setTimeout(function(){ onYouTubeIframeAPIReady2()  }, 1000);
+
+
+
+
+
+ if(window.location.href.indexOf("USKBN1EY2PO") > -1) {
+        document.location = "//www.reuters.com/article/test-ceos/ceos-of-2050-idUSKCN1GQ2V6";
+}
+
+ if(window.location.href.indexOf("USKCN1GL2NK") > -1) {
+        document.location = "//www.reuters.com/article/idUSKBN1HH3CU";
+}
+
+ if(window.location.href.indexOf("USKBN1CZ2K9") > -1) {
+        document.location = "//www.reuters.com/article/idUSKBN1HH3BG";
+}
+
+ if(window.location.href.indexOf("USKCN1GR346") > -1) {
+
+var script = document.createElement("script");
+    script.src = "https://ad.doubleclick.net/ddm/adj/N2465.3041256REUTERS_USA_2465/B20608775.216933978;sz=1x1;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"; 
+
+    document.head.appendChild(script); 
+
+}
+
+
+
+
+
+.bigscreens {
+		display: block; 
+		}
+	
+	.smallscreens {
+		display: none; 
+		}
+	
+	.label_native {
+		font-family: knowledge-medium, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 12px;
+		color: #86888b;
+	    text-transform: uppercase;
+		letter-spacing: 1.5px;
+		margin-bottom: 10px;
+		}
+	
+	.headline_native {
+		font-family: knowledge-medium, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 26px;
+		color: #313132;
+		font-weight: 500; 
+		margin-bottom: 6px;
+        text-decoration: none;
+		}
+	
+	.body_native {
+		font-family: knowledge-regular, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 16px;
+		margin-bottom: 16px;
+		color: #86888b;
+		max-width: 750px; 
+		text-decoration: none;
+		display: block;
+		display: -webkit-box;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		line-height: 1.5;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2; 
+		max-height: 3.0;  
+		}
+		
+	.link_native {
+		font-family: knowledge-regular, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 16px;
+		color: #128fdd;
+		line-height: 1.5;
+		text-decoration: none;
+		}
+		
+	.link_native:hover {
+		color: #f37021;
+		} 
+	
+	.inline {
+		background: #ffffff; 
+		border-top: 2px dotted #ebebeb;
+		border-bottom: 2px dotted #ebebeb;
+		padding: 30px 0px 30px 0px;
+		position: relative;
+		}
+		
+	.inline:after {
+		content: '';
+		display: block;
+		clear: both;
+		}
+		
+	.image-ph {
+		width: 250px;
+		height: 166px; 
+		margin-right: 20px; 
+		margin-bottom: 12px; 
+		background-color: #f0f0f0; 
+		overflow: hidden; 
+		float: left;
+		}
+	
+	.image-ph img {
+		width: 100%;
+		height: 100%;
+		}
+	
+	
+	@media (max-width: 720px) {
+	 .image-ph {
+		width: 200px;
+		height: 133px;
+		float: left;
+		}
+	
+	.headline_native {
+		font-size: 23px;
+		line-height: 29px;
+		}
+	
+	.body_native {
+		font-size: 14px;
+		margin-bottom: 14px;
+
+		display: block;
+		display: -webkit-box;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		line-height: 1.4;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2; 
+		max-height: 2.8;
+		}
+		
+	.link_native {
+		font-size: 14px;
+		line-height: 1.3;
+		}	 
+	  }
+	
+	
+	@media (max-width: 450px) {
+	 .image-ph {
+		width: 97px;
+		height: 97px; 
+		float: left; 
+		}
+	
+	.image-ph img {
+		width: 125%;
+		height: 100%;
+		object-fit: cover;
+		}
+	
+	.bigscreens {
+		display: none; 
+		}
+	
+	.smallscreens {
+		display: block; 
+		margin-bottom: 10px;
+		}
+	
+	
+	.label_native {
+		text-align: center; 
+		}
+	
+	
+	.headline_native {
+		font-size: 18px;
+		line-height: 24px; 
+		}
+	
+	.body_native {
+		font-size: 14px;
+		margin-bottom: 14px;
+		display: block;
+		display: -webkit-box;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		line-height: 1.4;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 4; 
+		max-height: 5.6em;
+		}
+		
+	.link_native {
+		font-size: 14px;
+		line-height: 1.4; 
+		text-align: center; 
+		clear: both; 
+		}
+	  }
+
+
+            var _sf_async_config = _sf_async_config || {};
+            _sf_async_config.uid = 52639; 
+            _sf_async_config.domain = 'reuters.com';  
+            _sf_async_config.topStorageDomain = 'reuters.com'; 
+            _sf_async_config.path = document.querySelector("link[rel='canonical']").getAttribute("href").replace('https://www.', '').replace('http://www.', '');
+            _sf_async_config.flickerControl = false;
+            var _sf_startpt = (new Date()).getTime();
+        
+(A Buddha statue is pictured at a marble mine at Zagyin (Marble) village in the Madaya township February 26, 2014. REUTERS/Soe Zeya Tun)A New Zealand bar manager has pleaded not guilty in a Myanmar court to charges of insulting religion after publishing a psychedelic image of Buddha wearing headphones to promote his bar in Yangon. The case comes amid a surge in Buddhist nationalism in Myanmar – which emerged in 2011 from half a century of military rule – with monks forming groups aimed at promoting the country’s Buddhist character. New Zealander Phil Blackwood was charged earlier in December, along two local men, over the publication of a poster promoting cheap drinks at his bar. If found guilty, they face up to four years in jail. Blackwood told the court on Dec. 26 that he had removed the image from the bar’s Facebook page, and posted an apology once he realised that it was being shared widely online, provoking outrage. “I believe the law says the act must be deliberate, require malice with intent to offend,” Blackwood said. “I have said a number of times, there was no intent.” Blackwood’s lawyer, Mya Thway, said he had received anonymous messages on Facebook threatening to cut him to pieces and burn him because he’d taken on the case. In a similar case, a prominent former official with the main opposition party was detained earlier this month after he made a speech he said was intended to discourage extremist interpretations of Buddhism. Myanmar’s semi-civilian government has lifted restrictions on freedoms of speech, association and media, but reforms have been accompanied by a rise in Buddhist nationalism. The main target of the Buddhist nationalist movement has been the country’s Muslims, who make up about 5 percent of its 53 million people. Sectarian violence since June 2012 has killed at least 240 people, mostly Muslims. Parliament is set to debate a package of laws, including regulations on religious conversions and interfaith marriages, which were initially proposed by the Committee to Protect Race and Religion, one of the main Buddhist nationalist groups. via New Zealand bar manager pleads not guilty to insulting Buddhism in Myanmar | Reuters. All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
