@@ -133,9 +133,9 @@ def training(x_name,y_name,model):
     print(y_train_end.shape)
 
 	# Encoding y
-    encoder = LabelEncoder()
-    encoder.fit(y_train)
-    encoded_Y = encoder.transform(y_train)
+    #encoder = LabelEncoder()
+    #encoder.fit(y_train)
+    #encoded_Y = encoder.transform(y_train)
   
     model.train_on_batch(x_train, y_train_end)
     print("model fitting on "+x_name)
