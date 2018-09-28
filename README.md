@@ -21,6 +21,14 @@ Description of each file :
 - pickle_article : a folder with all pickle files for articles on each company
 - daterange : to link the ID of day to the actual day (year/month/day).
 
+Folders : 
+
+- sample_of_scrap : sample of the articles we scraped
+- stock_value : Contains stock values and stock moves of the companies.
+- pickle : Contains dictionaries of all stock moves in pickles files. Used to create y_train and y_test
+- pickle_article : Contains dictionnaries { str day : str [ list of all articles ID for this company on this day] } in pickle file.
+- firm_csv_folder_old : Contains csv with IDs of all articles for each company.
+
 Steps to follow to run the project :
 1.  Run extract_reuters.py it will organize articles in folder like this : 
     your_chosen_folder <=== day_folder <== journal_dir <== article_title.txt
