@@ -1,4 +1,5 @@
 import pickle
+import os
 
 firm_folder = " your_folder_with_csv_file_with_stock_value_for_each_company"
 def pickle_stock_value():
