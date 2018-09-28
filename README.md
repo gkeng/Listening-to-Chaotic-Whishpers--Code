@@ -18,3 +18,24 @@ Description of each file :
 - han : Implementation of the Hybrid Attention Network
 - pickle : a folder with all pickle files for stock price of companies
 - pickle_article : a folder with all pickle files for articles on each company.
+
+Steps to follow to run the project :
+1.  Run extract_reuters.py it will organize articles in folder like this : 
+    your_chosen_folder <=== day_folder <== journal_dir <== article_title.txt
+    
+2.  Use functions in data_process.py to process the data. In this order :
+    - rename_dir : will rename all directories. The directory for the first day( 1st January 201X) will be "0001"
+    - rename_file : will give an ID to every file. The 15th article of the first day will be "0001_15.txt"
+    - create_csv_firm will create a csv for each company in which one can find every day and ID of articles in 
+      which the company is cited
+  
+3.  Run picklizer.py. This creates a dictionnary for each company and saves it as a pickle file.
+    { str day : str [ list of all articles ID for this company on this day] }
+   
+      
+4.  Run doc2vec.py to train the doc2vec model and vectorize all the press articles. 
+    The output file is heavy.. For years 2015 to 2017 our doc2vec file was 2 Go of size
+
+5.  
+    
+    
