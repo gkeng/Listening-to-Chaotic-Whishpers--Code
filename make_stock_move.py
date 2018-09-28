@@ -1,3 +1,5 @@
+import os
+
 stock_value_folder = " your_folder_with_csv_file_with_stock_value_for_each_company"
 stock_move=stock_values_folder+'stock_move/'
 
