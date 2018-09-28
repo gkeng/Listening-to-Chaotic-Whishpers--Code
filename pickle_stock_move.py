@@ -1,6 +1,7 @@
 import pickle
+import os
 
-firm_folder = " your_folder_with_csv_file_with_stock_move_for_each_company"
+stock_move = " your_folder_with_csv_file_with_stock_move_for_each_company"
 
 def pickle_stock_move():
 
