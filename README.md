@@ -16,9 +16,10 @@ Description of each file :
 - picklizer : A script to make pickle file of all press articles for each firm
 - action : A class that implements methods and object to simulate a portfolio
 - han : Implementation of the Hybrid Attention Network
+- han_training : Implementation and training of HAN
 - pickle : a folder with all pickle files for stock price of companies
 - pickle_article : a folder with all pickle files for articles on each company
-- daterange.py to link the ID of day to the actual day (year/month/day).
+- daterange : to link the ID of day to the actual day (year/month/day).
 
 Steps to follow to run the project :
 1.  Run extract_reuters.py it will organize articles in folder like this : 
