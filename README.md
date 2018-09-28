@@ -36,6 +36,9 @@ Steps to follow to run the project :
 4.  Run doc2vec.py to train the doc2vec model and vectorize all the press articles. 
     The output file is heavy.. For years 2015 to 2017 our doc2vec file was 2 Go of size
 
+
+https://www.kaggle.com/camnugent/sandp500
+
 5.  
     
     
