@@ -1,5 +1,7 @@
 # LCW-Code
 
+## The whole repo need refactoring. I'll try to do it asap. I particularly need to find a new dataset to reproduce the results
+
 This repo is in progress. It is dedicated to an implementation of Listening to Chaotic Whispers. https://arxiv.org/abs/1712.02136v1
 We are writing a serie of blogpost to explain each step of our workflow. 
 You may find the first the first post on Medium : https://medium.com/@gkeng/make-your-computer-invest-like-a-human-ef0654ccdcff
